@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://hdwallsource.com/img/2014/6/cloud-backgrounds-17393-17951-hd-wallpapers.jpg");
+    width: 100%;
+}
+.justin{
+	display: flex;
+    align-items: center;
+}
+
+#justin{
+    width:400px;
+    height:600px;
+}
+#josh{
+    width:400px;
+    height:600px;
+}
+#romar{
+    width:400px;
+    height:600px;
+}

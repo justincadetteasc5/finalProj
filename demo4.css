@@ -1,0 +1,99 @@
+body {
+    background-image: url("http://www.slate.com/content/dam/slate/blogs/bad_astronomy/2015/10/151027_BA_blue-sky.jpg.CROP.promo-xlarge2.jpg");
+}
+
+div {
+    display: inline;
+    column-count: 1;
+    padding: 20px;
+}
+
+div2 {
+    display: inline;
+    column-count: 1;
+    padding: 20px;
+}
+
+div3 {
+    display: inline;
+    column-count: 1;
+    padding: 20px;
+}
+
+div4 {
+    display: inline;
+    column-count:1;
+    padding: 20px;
+}
+
+div5 {
+    display:inline;
+    padding: 50px;
+    font-size: 30px;
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+div6 {
+    display: inline-block;
+    column-count: 1;
+    padding: 50px;
+}
+
+div7 {
+    display: inline;
+    column-count: 1;
+    padding: 30px;
+}
+
+div8 {
+    display: inline;
+    column-count: 1;
+    padding: 30px;
+}
+
+div9 {
+    display: inline;
+    column-count:1;
+    padding: 50px;
+}
+
+div10 {
+    display:inline;
+    padding: 50px;
+    font-size: 30px;
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+div11 {
+    display: inline-block;
+    padding: 15px;
+}
+
+div12 {
+    display: inline-block;
+    padding:15px;
+}
+
+div13 {
+    display: inline-block;
+    padding:15px;
+}
+
+div14 {
+    display: inline-block;
+    padding: 15px;
+}
+
+div15 {
+    display:inline;
+    padding: 50px;
+    font-size: 30px;
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+
+
+
